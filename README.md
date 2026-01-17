@@ -1,20 +1,20 @@
 # why-i-started
 
-My name is Adi.
 
-I started this GitHub at a time when I was tired of waiting.
-One year at home taught me that nothing changes unless I move first.
+My name is Aditya.
 
-I don’t know exactly how far this journey will take me,
-but I know why I began:
+I created this GitHub repository at a point in my life where I was tired of waiting.
+One year at home taught me that nothing changes unless I take action myself.
 
-- I want financial freedom
-- I want to build skills that matter
-- I don’t want to depend on luck or consultants
-- I want to look back one day and remember that this is where I chose action
+I don’t know exactly where this journey will lead,
+but I know why I started:
 
-If you’re reading this in the future:
-You didn’t start because it was easy.
-You started because you were done waiting.
+- To build real technical skills
+- To become financially independent
+- To stop relying on luck or consultants
+- To create opportunities instead of waiting for them
 
-Keep going.
+This repository exists as a reminder.
+If I ever come back here in the future, I want to remember that this is where I chose discipline over comfort.
+
+Started in 2026.
